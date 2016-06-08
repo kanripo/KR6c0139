@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:06.484325
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:04
 #+TITLE: 般若波羅蜜多心經略疏
 #+PROPERTY: CBETA_ID T33n1712
 #+PROPERTY: ID KR6c0139
