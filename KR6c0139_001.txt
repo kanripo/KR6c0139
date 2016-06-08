@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:06.484325
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:04
 #+TITLE: 般若波羅蜜多心經略疏
 #+PROPERTY: CBETA_ID T33n1712
 #+PROPERTY: ID KR6c0139
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1712
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0139_T_000-0552a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0139_T_001-0552a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1712[cf.No.251]¶
-
- 般若波羅蜜多心經略疏(并序)¶
+No. 1712 [cf. No. 251]¶
+般若波羅蜜多心經略疏(并序)¶
 ¶
 唐翻經沙門法藏述¶
 
@@ -157,7 +156,7 @@ No.1712[cf.No.251]¶
 是空故。二從空入假觀。謂空即是色故。三¶
 空假平等觀。謂色空無異故。¶
 
-舍利子。是諸法空相　第二顯法體。於中有¶
+舍別子。是諸法空相　第二顯法體。於中有¶
 二。先總後別。今初也。言是諸法空相者。謂¶
 蘊等非一故云諸法。顯此空狀故云空相。中¶
 邊論云。無二有此無是二名空相。言無二者¶
@@ -324,10 +323,7 @@ No.1712[cf.No.251]¶
 萬遍。心游妙義口誦靈文。再三慇懃令出略¶
 疏。輒以蠡管詎測高深云爾。¶
 
-:PROPERTIES:
-:head: 般若心經贊序
-:END:
-¶
+* 般若心經贊序¶
 張說撰¶
 
 萬法起心。心人之主。三乘歸一。一法之宗。¶
